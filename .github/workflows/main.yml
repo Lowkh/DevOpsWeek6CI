@@ -18,5 +18,5 @@ jobs:
       - name: List Content
         run: |
           ls
-          cat Readme.md
+          cat README.md
   
